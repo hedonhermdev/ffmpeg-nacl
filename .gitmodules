@@ -1,0 +1,9 @@
+[submodule "musl"]
+	path = musl
+	url = git://musl.libc.org/musl
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = git@github.com:FFmpeg/FFmpeg
+[submodule "user-trampoline-arm64"]
+	path = user-trampoline-arm64
+	url = git@github.com:mars-research/user-trampoline-arm64.git

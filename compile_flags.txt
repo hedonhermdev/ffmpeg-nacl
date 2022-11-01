@@ -1,0 +1,8 @@
+-fno-stack-protector
+-fomit-frame-pointer
+-fPIC
+-isystem /home/tirth/ffmpeg-nacl/musl/obj/include
+-isystem /home/tirthffmpeg-nacl/musl/include
+-isystem /home/tirth/ffmpeg-nacl/musl/arch/x86_64
+-isystem /home/tirthffmpeg-nacl/musl/arch/generic
+-IFFmpeg/
